@@ -1,4 +1,4 @@
-@import "variables";
-
-@import "addons/font_icon";
-@import "addons/font-icon-reset";
+@use 'variables';
+@use 'addons/font_icon';
+@use 'addons/font-icon-reset';
+@use 'theme/header';

@@ -2391,4 +2391,14 @@
   margin-right: 0 !important;
 }
 
+.main_header .header_bar i {
+  font-size: 1.6em;
+}
+
+.main_header .header_bar p {
+  font-size: 0.875em;
+}
+
+
+
 /*# sourceMappingURL=app.css.map */
