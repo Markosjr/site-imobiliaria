@@ -30,9 +30,35 @@
             </div>
         </div>
     </div>
+    <nav class="navbar navbar-expand-md navbar-light my-3">
+        <div class="container">
+            <div class="navbar-brand">
+                <a href="index.php">
+                    <h1 class="visually-hidden">Imobiliária</h1>
+                    <img src="assets/images/logo.png" alt="" class="d-inline-block" width="180">
+                </a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" aria-current="page" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link text-front" aria-current="page" href="#">Destaque</a></li>
+                    <li class="nav-item"><a class="nav-link" aria-current="page" href="#">Alugar</a></li>
+                    <li class="nav-item"><a class="nav-link" aria-current="page" href="#">Comprar</a></li>
+                    <li class="nav-item"><a class="nav-link" aria-current="page" href="#">Contato</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
 </header>
 
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
