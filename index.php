@@ -54,8 +54,20 @@
         </div>
     </nav>
 
-
 </header>
+
+<?php
+
+$getApp = filter_input(INPUT_GET, 'app', FILTER_DEFAULT);
+
+if(empty($getApp)){
+    require 'widget/home.php';
+}elseif (!empty($getApp) && file_exists('widget/'.$getApp .'.php')){
+    require 'widget/'.$getApp .'.php';
+}else{
+    echo "Erro 404, Página não encontrada!";
+}
+?>
 
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
