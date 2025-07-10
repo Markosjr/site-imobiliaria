@@ -94,3 +94,59 @@
     </div>
 </div>
 
+
+<section class="main_list_group py-5 bg-light">
+    <div class="container">
+        <div class="p-4 border-bottom border-front">
+            <h1 class="text-center"> Ambiente no seu <span class="text-front"> <b>estilo</b> </span></h1>
+            <p class="text-center text-muted h4"> Encontre o imóvel com a experiência que você quer viver </p>
+        </div>
+
+        <div class="main_list_group_items mt-5 d-flex justify-content-around row">
+            <article class="main_list_group_items_item col-4 ">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/cobertura_oto_1.jpg') no-repeat; background-size: cover;">
+                        <h2> Cobertura </h2>
+                    </div>
+                </a>
+            </article>
+            <article class="main_list_group_items_item col-4 ">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/alto_padrao_1.jpg') no-repeat; background-size: cover;">
+                        <h2> Alto Padrão </h2>
+                    </div>
+                </a>
+            </article>
+            <article class="main_list_group_items_item col-4 ">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/de_frente_pro_mar_original.jpg') no-repeat; background-size: cover;">
+                        <h2> De frente para o Mar </h2>
+                    </div>
+                </a>
+            </article>
+            <article class="main_list_group_items_item col-4 mt-4">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/condominio_fechado_1.jpg') no-repeat; background-size: cover;">
+                        <h2> Condominio Fechado </h2>
+                    </div>
+                </a>
+            </article>
+            <article class="main_list_group_items_item col-4 mt-4">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/compacto_1.jpg') no-repeat; background-size: cover;">
+                        <h2> Compacto </h2>
+                    </div>
+                </a>
+            </article>
+            <article class="main_list_group_items_item col-4 mt-4">
+                <a href="#">
+                    <div class= "d-flex align-items-center justify-content-center" style="background: url('assets/images/home/sala_comercial_original.jpg') no-repeat; background-size: cover;">
+                        <h2> Lojas e Salas  </h2>
+                    </div>
+                </a>
+            </article>
+        </div>
+    </div>
+
+</section>
+
