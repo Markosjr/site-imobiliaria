@@ -69,6 +69,21 @@ if(empty($getApp)){
 }
 ?>
 
+<article class="main_optin bg-black text-white py-5">
+    <div class="container">
+        <div class="row mx-auto"  style="max-width: 600px">
+            <h1>Quer ficar por dentro de todas as novidades?</h1>
+            <p>Deixe seu nome e seu melhor e-mail nos campos abaixo e nós vamos lhe informar sobre os melhores negócios</p>
+
+            <form action="">
+                <input type="text" class="form-control" placeholder="Digite seu nome" size="50">
+                <input type="email" class="form-control" placeholder="Digite seu melhor e-mail" size="50">
+                <button type="submit" class="btn btn-front"> Me avise!</button>
+            </form>
+        </div>
+    </div>
+</article>
+
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
