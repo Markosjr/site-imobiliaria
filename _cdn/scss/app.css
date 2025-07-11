@@ -2787,6 +2787,21 @@ select.selectpicker {
   font-size: 0.875em;
 }
 
+.main_footer h1 {
+  font-size: 1.4em;
+  border-bottom: 1px solid #ccc;
+}
+.main_footer ul {
+  padding: 0;
+}
+.main_footer ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+.main_footer ul li a {
+  color: #666;
+}
+
 .main_slide {
   background-image: url("../../assets/images/front1.jpg");
   background-position: center 65%;

@@ -85,6 +85,48 @@ if(empty($getApp)){
 </article>
 
 
+<section class="main_footer bg-light" style="background: url(assets/images/footer.png) repeat-x bottom center; background-size:10% ">
+    <div class="container pt-5" style="padding-bottom: 125px">
+        <div class="row justify-content-around text-muted">
+            <div class="col-3">
+                <h1 class="pb-2"> Navegue <span class="text-front"> Aqui! </span></h1>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="" class="text-front">Destaque</a></li>
+                    <li><a href="">Alugar</a></li>
+                    <li><a href="">Comprar</a></li>
+                    <li><a href="">Contato</a></li>
+                </ul>
+            </div>
+
+            <div class="col-6">
+                <h1 class="pb-2"> Nos <span class="text-front"> Conheça! </span></h1>
+                <p> Nossa maior satisfação é lhe ajudar a encontrar o seu imóvel dos sonhos!</p>
+
+                <h1 class="pb-2"> Quer <span class="text-front"> Investir? </span></h1>
+                <p> Entre em contato para que possa ficar sempre informado sobre os melhores negócios!</p>
+            </div>
+
+            <div class="col-3">
+                <button class="btn btn-front icon-whatsapp icon-notext"></button>
+                <button class="btn btn-front icon-facebook icon-notext"></button>
+                <button class="btn btn-front icon-instagram icon-notext"></button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="main_copyright py-3 bg-front text-white text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p class="mb-0"> Imobiliária | CRECI 1234 | Avenida Guilherme de Paula Xavier, 1723 Campo Mourão/Pr </p>
+                <p class="mb-0"> Todos os direitos reservados - Desenvolvido por Marcos Junior®</p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.18/dist/js/bootstrap-select.min.js"></script>
