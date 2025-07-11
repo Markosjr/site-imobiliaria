@@ -2917,6 +2917,20 @@ select.selectpicker {
   font-size: 1.2em;
 }
 
+.main_contact form {
+  padding: 20px;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 600px;
+  max-width: calc(100% - 40px);
+}
+
+.main_contact form h2 {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
 .img-responsive-16y9 {
   display: block;
   height: 0;
