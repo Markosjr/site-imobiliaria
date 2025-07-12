@@ -2915,4 +2915,8 @@ select.selectpicker {
   width: 100%;
 }
 
+.carousel-item img {
+  height: 450px;
+}
+
 /*# sourceMappingURL=app.css.map */
