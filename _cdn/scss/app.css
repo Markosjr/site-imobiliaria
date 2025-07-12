@@ -2936,6 +2936,8 @@ select.selectpicker {
   border-radius: 4px;
   border: 1px solid #2d9a81;
   color: #FFF;
+  min-width: 350px;
+  display: block;
 }
 
 .img-responsive-16y9 {
