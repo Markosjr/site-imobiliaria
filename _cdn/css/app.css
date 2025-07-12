@@ -2931,6 +2931,27 @@ select.selectpicker {
   margin-bottom: 20px;
 }
 
+.main_property h2 {
+  margin: 40px 0px 20px 0;
+}
+
+.main_property .main_property_content_price .main_property_content_price_small {
+  margin-bottom: 0px;
+  font-size: 0.8em;
+}
+
+.main_property .property_content_structure .property_content_structure_item {
+  padding: 6px 12px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(43, 129, 52, 0.89);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #2d9a81;
+  color: #FFF;
+}
+
 .img-responsive-16y9 {
   display: block;
   height: 0;
@@ -2999,6 +3020,10 @@ select.selectpicker {
 
 .main_optin form button {
   width: 100%;
+}
+
+.carousel-item img {
+  height: 450px;
 }
 
 
