@@ -48,7 +48,7 @@
             <div class="col-4">
                 <h2 class="icon-envelope"> Por E-mail </h2>
                 <p> Iremos entrar em contato com você assim que possível.</p>
-                <p class="pt-4"><a href="" class="text-front"> Email@email.com.br </a></p>
+                <p class="pt-4"><a href="" class="text-front">contato@imobsantamaria.com.br</a></p>
             </div>
 
             <div class="col-4">
@@ -60,7 +60,11 @@
             <div class="col-4">
                 <h2 class="icon-share-alt"> Redes Sociais </h2>
                 <p> Fique por dentro de tudo o que compartilhamos nas Redes Sociais!</p>
-                <p> <button class="btn btn-front icon-whatsapp icon-notext"> </button> <button class="btn btn-front icon-facebook icon-notext"> </button> <button class="btn btn-front icon-instagram icon-notext"> </button></p>
+                <p>
+                    <a href="https://wa.me/5544998783627" target="_blank" class="btn btn-front icon-whatsapp icon-notext"></a>
+                    <a href="https://facebook.com/negociosimobiliarios.santamaria?locale=pt_BR" target="_blank" class="btn btn-front icon-facebook icon-notext"></a>
+                    <a href="https://instagram.com/santamaria.imoveis" target="_blank" class="btn btn-front icon-instagram icon-notext"></a>
+                </p>
 
 
             </div>
