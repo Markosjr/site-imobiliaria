@@ -2843,6 +2843,69 @@ select.selectpicker {
   font-size: 1.2em;
 }
 
+@media (max-width: 992px) {
+  .main_slide {
+    height: 400px;
+  }
+  .main_slide .main_slide_content {
+    font-size: 2em;
+    padding: 20px;
+  }
+  .main_list_group_items_item a {
+    font-size: 1.1em;
+  }
+  .main_list_group_items_item a:hover {
+    font-size: 1.2em;
+  }
+  .main_list_group_items_item a div {
+    min-height: 160px;
+  }
+  .main_list_group_items_item a div h2 {
+    font-size: 1.1em;
+  }
+}
+@media (max-width: 768px) {
+  .main_slide {
+    height: 320px;
+  }
+  .main_slide .main_slide_content {
+    font-size: 1.5em;
+    padding: 15px;
+  }
+  .main_list_group_items_item a {
+    font-size: 1em;
+  }
+  .main_list_group_items_item a:hover {
+    font-size: 1.1em;
+  }
+  .main_list_group_items_item a div {
+    min-height: 140px;
+  }
+  .main_list_group_items_item a div h2 {
+    font-size: 1em;
+  }
+}
+@media (max-width: 576px) {
+  .main_slide {
+    height: 280px;
+  }
+  .main_slide .main_slide_content {
+    font-size: 1.2em;
+    padding: 10px;
+  }
+  .main_list_group_items_item a {
+    font-size: 0.95em;
+  }
+  .main_list_group_items_item a:hover {
+    font-size: 1em;
+  }
+  .main_list_group_items_item a div {
+    min-height: 120px;
+  }
+  .main_list_group_items_item a div h2 {
+    font-size: 0.95em;
+  }
+}
 .main_contact form {
   padding: 20px;
   background-color: #FFFFFF;
